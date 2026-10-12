@@ -1,0 +1,33 @@
+NOTICE — Provenance
+===================
+
+This repository is a modified fork of:
+
+  https://github.com/itshen/learn-ai
+  Copyright (c) 2026 洛小山 · Miyang Tech (Zhuhai Hengqin) Co., Ltd.
+  Licensed under GNU Affero General Public License v3.0 (see LICENSE).
+
+Substantial portions retained from the upstream project include (non-exhaustive):
+
+  - slides/lesson.css, lesson.js, lesson-dark-compat.css
+  - slides/theme-bridge.js, slide-base.css, taste.css, ixd.css, seo.css
+  - The course-data.js structural pattern (parts → topics → lessons → COURSE_FLAT)
+  - Layout DNA from slides/learn.html (sidebar nav + iframe reader + bottom pager),
+    retained CSS extracted to learn-shell-retained.css
+
+Removed / not redistributed from upstream (Cut list):
+
+  - Alice / ask-alice assistant, certificates,「学会了」progress, challenge contests
+  - Exam / skill / elder courses, auth / paywall / login walls
+  - Donor / partner / review walls, PWA splash, watermark tracking
+  - Multi-language (en/hk/tw/ko) projections and original AI-course lesson HTML corpus
+  - Marketing home funnel modules (persona / JD / donate / Alice CTA)
+
+Added by this fork:
+
+  - Personal knowledge Domain→Point content (认知园)
+  - garden-theme.css aesthetic remodel (magazine / high-duotone)
+  - home / now / log / about routes; points/*.html seed pages
+
+This fork remains AGPL-3.0. Downstream network use must keep source available
+under the same license and preserve attribution to upstream authors.
