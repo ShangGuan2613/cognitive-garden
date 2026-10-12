@@ -6,7 +6,7 @@
 
 ## 在线
 
-GitHub Pages 启用后见仓库 Settings → Pages（或本 README 更新后的 URL）。
+**在线：** <https://shangguan2613.github.io/cognitive-garden/>
 
 ## 本地
 
